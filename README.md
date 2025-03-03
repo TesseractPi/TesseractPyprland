@@ -1,0 +1,2 @@
+# TesseractPyprland
+My Hyprland config
