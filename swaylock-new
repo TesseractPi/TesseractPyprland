@@ -1,0 +1,4 @@
+#!/bin/bash
+
+swaylock --screenshot --indicator --clock --effect-blur 10x10 --indicator-radius 256 --font "JetBrains Mono" # uses swaylock-effects
+
