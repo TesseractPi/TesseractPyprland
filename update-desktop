@@ -1,3 +1,5 @@
 #!/bin/bash
 
-cp -vrf ~/.config/hypr/* ./hypr/
+rm -vr ./hypr
+mkdir ./hypr
+cp -vr ~/.config/hypr/* ./hypr/
