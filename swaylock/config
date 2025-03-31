@@ -1,6 +1,7 @@
 font=JetBrains Mono
 text-wrong=no
 text-ver=...
+text-clear=←
 
 clock
 datestr=%a %Y-%m-%d
